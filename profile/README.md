@@ -1,12 +1,7 @@
-## Hi there 👋
+# Games' Past
 
-<!--
+Welcome to the official Games' Past GitHub page!
 
-**Here are some ideas to get you started:**
+You can expect to find tools designed to help with data recovery, parsers/decoders for proprietary file formats, patches for games, or anything else we've created to assist our releases.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Anything game-specific will only be released alongside (or shortly after) the public release. (We wouldn't want any spoilers now, would we? 😉)
